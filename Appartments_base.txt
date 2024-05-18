@@ -1,0 +1,25 @@
+Pyras A.C.
+3
+77
+3
+East
+Akinin I.B.
+3
+66
+4
+East
+Akinin D.U.
+1
+32
+3
+East
+Madaev K.B.
+2
+48
+2
+North
+Tatianina C.B.
+3
+83
+2
+Center
